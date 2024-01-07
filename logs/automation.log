@@ -1,0 +1,10 @@
+16:57:31.442 [main] INFO  testCases.TC001_LoginTest - Launching the browser
+16:57:35.052 [main] INFO  testCases.TC001_LoginTest - -------Starting Login Test---------
+16:57:37.526 [main] INFO  testCases.TC001_LoginTest - Test Passed
+16:57:37.529 [main] INFO  testCases.TC001_LoginTest - ----------Finished Login Test----------
+16:57:37.820 [main] INFO  testCases.TC001_LoginTest - Closing the browser
+17:57:04.101 [main] INFO  testCases.TC001_LoginTest - Launching the browser
+17:57:07.598 [main] INFO  testCases.TC001_LoginTest - -------Starting Login Test---------
+17:57:09.964 [main] INFO  testCases.TC001_LoginTest - Test Passed
+17:57:09.967 [main] INFO  testCases.TC001_LoginTest - ----------Finished Login Test----------
+17:57:10.247 [main] INFO  testCases.TC001_LoginTest - Closing the browser
